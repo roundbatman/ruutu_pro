@@ -50,8 +50,8 @@ html = r.read()
 #    print f
 
 br.select_form(nr=1)
-br.form['name'] = 'juha.majuri@gmail.com'
-br.form['pass'] = 'no243va'
+br.form['name'] = 'pepe@gmail.com'
+br.form['pass'] = 'pepe12345678'
 
 # Login
 br.submit()
