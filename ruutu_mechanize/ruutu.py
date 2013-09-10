@@ -6,7 +6,6 @@ import re
 
 base_url='http://www.ruutu.fi'
 media_cache_host="http://gatling.nelonenmedia.fi"
-
 swfUrl = 'http://www.ruutu.fi/sites/all/modules/custom/ruutu_video/files/jwplayer/7.1.63.1/player.swf'
 
 # Browser
